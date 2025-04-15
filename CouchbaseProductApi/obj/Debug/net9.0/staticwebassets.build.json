@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WaC4sW6IikWTNkDMmetgAWiF/5XUyj9LRZV6fqooeWk=",
+  "Source": "CouchbaseProductApi",
+  "BasePath": "_content/CouchbaseProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CouchbaseProductApi.props" />
+</Project>
